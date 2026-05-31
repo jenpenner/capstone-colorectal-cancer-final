@@ -73,7 +73,6 @@ The BRFSS is the largest ongoing telephone health survey in the United States, c
 
 | Notebook | Description |
 |---|---|
-| [`notebooks/colorectal_cancer_eda.ipynb`](notebooks/colorectal_cancer_eda.ipynb) | Data loading, cleaning, exploratory data analysis, feature engineering, and baseline logistic regression |
 | [`notebooks/colorectal_cancer_modeling.ipynb`](notebooks/colorectal_cancer_modeling.ipynb) | Full model comparison, GridSearchCV tuning, SHAP interpretability, equity analysis, and final recommendations |
 
 ---
