@@ -167,7 +167,6 @@ This is not a flaw in the math — it is a reflection of a healthcare system whe
 capstone-colorectal-cancer/
 ├── README.md
 ├── notebooks/
-│   ├── colorectal_cancer_eda.ipynb
 │   └── colorectal_cancer_modeling.ipynb
 └── data/
     └── README.md
@@ -186,12 +185,10 @@ capstone-colorectal-cancer/
    pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn shap
    ```
 
-3. **Run notebooks in order:**
+3. **Run notebook:**
    ```bash
-   jupyter notebook notebooks/colorectal_cancer_eda.ipynb
    jupyter notebook notebooks/colorectal_cancer_modeling.ipynb
    ```
-   Each notebook can also be run independently.
 
 ---
 
